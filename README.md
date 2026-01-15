@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Milagrosop27
   
 - 🎓 I’m a Systems Engineering student
-- ☁️ I’m interested in Cloud Computing
+- ☁️ I’m interested in Data
 - 📫 How to reach me: ochoaperezmilagros@outlook.com
 - 🌐 Connect with me on my social media!  
 - ⚡ Fun fact: ...//undc.edu
